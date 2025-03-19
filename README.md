@@ -1,3 +1,3 @@
 # Practice
-#This is my first Repositry. 
-#Author- Musaddiqa Mahmood
+This is my first Repositry. 
+Author- Musaddiqa Mahmood

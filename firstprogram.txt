@@ -1,0 +1,24 @@
+name = input("enter your name: ")
+age = int(input("enter your age: "))
+marks = float(input("enter your age: "))
+print("welcome" , name )
+print("my age:" , age )
+print("my marks:" , marks)
+first = int(input("first number: "))
+second = int(input("second number: "))
+print("sum = ", first + second)
+side = float(input("one side: "))
+print("area= " , side ** 2)
+name=input('Enter your name:')
+print(len(name))
+p='i will earn $ in future only because $ have the best worth over all world.'
+print(p.count('$'))
+light='Black'
+if light=="Green":
+    print("You can Go")
+elif light=="Yellow":
+    print("Alert!")
+elif light==("Red"):
+    print("You have to wait")
+else:
+    print("Light is Broken!")
